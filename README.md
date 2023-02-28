@@ -12,7 +12,7 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - C#
-- .Nett 7.0
+- .Net 7.0
 - Windows Forms
 
 ## :memo: Licença
